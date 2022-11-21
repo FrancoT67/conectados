@@ -1,7 +1,11 @@
 **App de Conectados** 
+
 Se utilizaron las siguientes tecnologias:
+ 
  **NodeJS**
+ 
  **Express**
+ 
  **MySQL**
 
 **Toledo Franco Dev**,
