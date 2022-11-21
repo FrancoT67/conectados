@@ -4,7 +4,8 @@ Se utilizaron las siguientes tecnologias:
  *Express*
  *MySQL*
 
-**Toledo Franco Dev**,/n
+**Toledo Franco Dev**,
+
 **Cueto Gaston Dev**,
 **Lucero Lautaro DBA**,
 **Kassar Mateo Designer UI/UX**,
