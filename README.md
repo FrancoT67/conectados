@@ -7,6 +7,8 @@ Se utilizaron las siguientes tecnologias:
  **Express**
  
  **MySQL**
+ 
+ Equipo:
 
 **Toledo Franco Dev**,
 
