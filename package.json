@@ -4,7 +4,8 @@
   "description": "Aplicacion de conectados. Correr npm run start para probar el programa",
   "main": "index.js",
   "scripts": {
-    "start":" node src/index.js",
+    "build": "npm i",
+    "start": "node src/index.js",
     "dev": "nodemon src/index.js"
   },
   "keywords": [],
